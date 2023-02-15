@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="z`rY-@nt`;lrtloBoc_-" x="33" y="52"><statement name="HANDLER"><block type="controls_repeat_ext" id="!n^]LcDEdFUHJ:se4Rlk"><value name="TIMES"><shadow type="math_whole_number" id="~Rl(7c5RJjvy~r)I|%44"><field name="NUM">2</field></shadow></value><statement name="DO"><block type="device_print_message" id="]vmbIQX;G-MM}Ui)GG?S"><value name="text"><shadow type="text" id="Jj/-d!!$uHO(ng.0})W2"><field name="TEXT">Hi, how are you?</field></shadow></value></block></statement><next><block type="device_show_leds" id="gJPj,3mbeZVfp#$*hT@h"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        . # # # . 
+        . . # . .
+        `</field></block></next></block></statement></block><block type="device_gesture_event" id="/.(%0,*9v9j+)Cp;HYhF" x="302" y="209"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="soundExpression_playSoundEffect" id="m3ey*,rJ^%?jOM=Ivr1R"><field name="mode">SoundExpressionPlayMode.UntilDone</field><value name="sound"><shadow type="soundExpression_builtinSoundEffect" id="`-^]zH}Uw[0wRPX/ZvBN"><field name="soundExpression">soundExpression.sad</field></shadow></value></block></statement></block></xml>
